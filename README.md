@@ -1,22 +1,60 @@
-# 💫 About Me:
-🔭 I’m currently setting up my nvim config<br>🤝 I'm always available to help on any project<br>🐍 I love python<br>🙂 I learned C++ and ReactJS at college<br>⚡ I studied Cybersecurity
+# Hi, I'm Gabriel Ramos 👋
 
+### 🔭 About me
+- Neovim enthusiast — currently refining my nvim config and dotfiles. 
+- I enjoy Python, systems programming, and learning new tools (C++, React, Cybersecurity background).
+- I contribute to small tools, personal projects, and learning exercises.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabriel.r.a.m.o.s)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_gabrielramos__) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gabrielramos02&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gabrielramos02&theme=dark&hide_border=false)<br/>
+## 🔗 Quick Links
+- Website / Blog: https://gabrielramos02.github.io
+- Buy me a coffee: https://buymeacoffee.com/gabriel_ramos
+- Instagram: https://instagram.com/gabriel.r.a.m.o.s
+- X: https://x.com/gabrielramos02
+
+---
+
+## 🚀 Highlighted Projects
+A selection of my repositories with short descriptions. For the full list, check my GitHub profile.
+
+- [nvim-config](https://github.com/gabrielramos02/nvim-config) — My personal Neovim configuration (Lua). 
+- [fuse-archive.yazi](https://github.com/gabrielramos02/fuse-archive.yazi) — Yazi plugin to mount/unmount archives transparently using fuse-archive (Lua).
+- [telegram-bot](https://github.com/gabrielramos02/telegram-bot) — Basic Telegram bot to interact with qbittorrent Web UI (Python).
+- [asteroids-boot-dev](https://github.com/gabrielramos02/asteroids-boot-dev) — Asteroids game project from the boot.dev course (Python).
+- [python-db](https://github.com/gabrielramos02/python-db) — Backend for a web project (Python).
+- [proyecto-web](https://github.com/gabrielramos02/proyecto-web) — Frontend for a project (JavaScript).
+- [roadmap-retos-programacion](https://github.com/gabrielramos02/roadmap-retos-programacion) — Coding challenges roadmap (Python).
+- [scripts-politicas-seguridad](https://github.com/gabrielramos02/scripts-politicas-seguridad) — Scripts to check security policy compliance (Shell).
+- [rclone](https://github.com/gabrielramos02/rclone) — Personal fork/experiment around rclone (Go).
+- [worldcup-score-alert-bot](https://github.com/gabrielramos02/worldcup-score-alert-bot) — Score alert bot (Python).
+- [tpv_release](https://github.com/gabrielramos02/tpv_release) — Releases for a point-of-sale app.
+- [dotfiles](https://github.com/gabrielramos02/dotfiles) — Dotfiles (Hyprland setup, Lua).
+
+---
+
+## 🛠️ Tech & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=gabrielramos02&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=gabrielramos02&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielramos02&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gabrielramos02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gabriel_ramos) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gabriel_ramos) 
+## 📫 How to reach me
+- Email: gabrielramos02@users.noreply.github.com (use GitHub to reveal my real email)
+- Twitter/X: https://x.com/gabrielramos02
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+Thanks for stopping by — feel free to open an issue or start a conversation on any repo if you'd like to collaborate!
