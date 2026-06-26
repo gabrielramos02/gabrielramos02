@@ -19,14 +19,10 @@
 A selection of my repositories with short descriptions. For the full list, check my GitHub profile.
 
 - [nvim-config](https://github.com/gabrielramos02/nvim-config) — My personal Neovim configuration (Lua). 
-- [fuse-archive.yazi](https://github.com/gabrielramos02/fuse-archive.yazi) — Yazi plugin to mount/unmount archives transparently using fuse-archive (Lua).
 - [telegram-bot](https://github.com/gabrielramos02/telegram-bot) — Basic Telegram bot to interact with qbittorrent Web UI (Python).
 - [asteroids-boot-dev](https://github.com/gabrielramos02/asteroids-boot-dev) — Asteroids game project from the boot.dev course (Python).
 - [python-db](https://github.com/gabrielramos02/python-db) — Backend for a web project (Python).
 - [proyecto-web](https://github.com/gabrielramos02/proyecto-web) — Frontend for a project (JavaScript).
-- [roadmap-retos-programacion](https://github.com/gabrielramos02/roadmap-retos-programacion) — Coding challenges roadmap (Python).
-- [scripts-politicas-seguridad](https://github.com/gabrielramos02/scripts-politicas-seguridad) — Scripts to check security policy compliance (Shell).
-- [rclone](https://github.com/gabrielramos02/rclone) — Personal fork/experiment around rclone (Go).
 - [worldcup-score-alert-bot](https://github.com/gabrielramos02/worldcup-score-alert-bot) — Score alert bot (Python).
 - [tpv_release](https://github.com/gabrielramos02/tpv_release) — Releases for a point-of-sale app.
 - [dotfiles](https://github.com/gabrielramos02/dotfiles) — Dotfiles (Hyprland setup, Lua).
@@ -38,16 +34,6 @@ A selection of my repositories with short descriptions. For the full list, check
 ![Lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=gabrielramos02&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=gabrielramos02&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielramos02&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
